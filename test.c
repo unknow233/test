@@ -1,5 +1,11 @@
 #include<stdio.h>
 int main(){
+	
 printf("hello github");
-	return 0;
+printf("hello github");
+printf("hello github");
+	
+	
+	
+return 0;
 }
