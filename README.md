@@ -1,8 +1,8 @@
-# 一阶<img src="bin/152151x5580o3lq57gbg5a.jpg" alt="152151x5580o3lq57gbg5a" style="zoom:25%;" />标题 或者快捷键Ctrl+1
+# 一阶标题 或者快捷键Ctrl+1
 ## 二阶标题 或者快捷键Ctrl+2
 ### 三阶标题 或者快捷键Ctrl+3
 #### 四阶标题 或者快捷键Ctrl+4
-##### 五阶标题 或者快捷键Ctrl+5
+##### 五阶标题 或者快捷键Ctrl+5![photo](bin/photo.jpg)
 ###### 六阶标题 或者快捷键Ctrl+6
 ![img](http://www.ddooo.com/uppic/200814/202008141442231829.jpg)
 2、标题Typora显示形式是
