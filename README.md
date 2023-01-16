@@ -1,4 +1,4 @@
-# 一阶标题 或者快捷键Ctrl+1
+# 一阶<img src="bin/152151x5580o3lq57gbg5a.jpg" alt="152151x5580o3lq57gbg5a" style="zoom:25%;" />标题 或者快捷键Ctrl+1
 ## 二阶标题 或者快捷键Ctrl+2
 ### 三阶标题 或者快捷键Ctrl+3
 #### 四阶标题 或者快捷键Ctrl+4
@@ -110,5 +110,3 @@
 打开DevTools：Shift+F12
 
 
-
-<img src="C:%5CUsers%5C23262%5CDesktop%5CRepository%5C$%7Bbin%7D%5C152151x5580o3lq57gbg5a.jpg" alt="152151x5580o3lq57gbg5a" style="zoom: 33%;" />
