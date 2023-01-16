@@ -108,3 +108,7 @@
 缩小：Ctrl+Shift+-
 应用内窗口切换：Ctrl+Tab
 打开DevTools：Shift+F12
+
+
+
+<img src="C:%5CUsers%5C23262%5CDesktop%5CRepository%5C$%7Bbin%7D%5C152151x5580o3lq57gbg5a.jpg" alt="152151x5580o3lq57gbg5a" style="zoom: 33%;" />
